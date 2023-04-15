@@ -10,6 +10,7 @@ Program ini dibuat dengan tujuan untuk mengimplementasikan eksplorasi JAVA GUI (
 Program dibuat untuk menyimpan data Komika serta Digital Download dari Special Show mereka. 
 
 ### Desain Database
+![alt text](https://github.com/MRayhanNurUPI/TP2DPBO2023/blob/main/screenshot/ERD.png)
 
 ## Alur Program
 1. Menampilkan window yang merupakan form login.
@@ -23,3 +24,4 @@ registrasi akun dan user dapat mengisi data-data yang diperlukan.
 8. Jika user telah selesai menggunakan program, user dapat menekan tombol "Log Out" pada Sidebar Menu dan dilanjutkan dengan konfirmasi Log Out. Jika user memilih "Yes" pada konfirmasi Logout, window Homepage akan otomatis tertutup dan memunculkan kembali Window Form Login.
 
 ## Dokumentasi
+https://user-images.githubusercontent.com/91837908/232240242-0d7e50ca-ec39-4dba-827f-b55c3f9db41c.mp4
